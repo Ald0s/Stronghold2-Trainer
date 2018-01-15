@@ -13,5 +13,10 @@ The DLL must be in the same directory as the EXE when you inject the module into
 * Make all entities associated with a player invicible
 * Infinite resoures
 
+### Pictures
+![Viewing All Players](https://i.imgur.com/eKDX2Ej.png)
+
+![Targetting a Player](https://i.imgur.com/Wj6qtIr.png)
+
 ### Authors
 * **Alden Viljoen**
