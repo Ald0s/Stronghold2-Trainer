@@ -1,0 +1,15 @@
+﻿  jmp.cpp
+c:\users\lenovo\documents\visual studio 2017\projects\stronghold2\stronghold2\jmp.cpp(20): warning C4309: '=': truncation of constant value
+c:\users\lenovo\documents\visual studio 2017\projects\stronghold2\stronghold2\jmp.cpp(21): warning C4309: '=': truncation of constant value
+c:\users\lenovo\documents\visual studio 2017\projects\stronghold2\stronghold2\jmp.cpp(44): warning C4309: '=': truncation of constant value
+c:\users\lenovo\documents\visual studio 2017\projects\stronghold2\stronghold2\jmp.cpp(45): warning C4309: '=': truncation of constant value
+  dllmain.cpp
+  Generating Code...
+c:\users\lenovo\documents\visual studio 2017\projects\stronghold2\stronghold2\dllmain.cpp(171): warning C4715: 'RequestSet': not all control paths return a value
+  Compiling...
+  player.cpp
+  memory.cpp
+c:\users\lenovo\documents\visual studio 2017\projects\stronghold2\stronghold2\memory.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Stronghold2.vcxproj -> C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Stronghold2\Debug\Stronghold2.dll
+  Stronghold2.vcxproj -> C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\Stronghold2\Debug\Stronghold2.pdb (Partial PDB)
