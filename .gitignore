@@ -30,9 +30,3 @@
 *.exe
 *.out
 *.app
-
-*.db
-*.ipch
-*.db-shm
-*.db-wal
-*.ide
